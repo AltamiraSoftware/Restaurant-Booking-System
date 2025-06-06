@@ -3,6 +3,10 @@
 ![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20Desarrollo-green)
 ![Versión](https://img.shields.io/badge/Versión-1.0.0-blue)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-yellow)
+[![GitHub Issues](https://img.shields.io/github/issues/AltamiraSoftware/Restaurant-Booking-System)](https://github.com/AltamiraSoftware/Restaurant-Booking-System/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/AltamiraSoftware/Restaurant-Booking-System)](https://github.com/AltamiraSoftware/Restaurant-Booking-System/stargazers)
+
+[Ver Demo](https://altamirasoftware.github.io/Restaurant-Booking-System/) | [Reportar Bug](https://github.com/AltamiraSoftware/Restaurant-Booking-System/issues) | [Solicitar Feature](https://github.com/AltamiraSoftware/Restaurant-Booking-System/issues)
 
 ## 📝 Descripción
 
@@ -63,8 +67,8 @@ reserva-app
 
 1. Clonar el repositorio
 ```powershell
-git clone https://github.com/tuusuario/reserva-app.git
-cd reserva-app
+git clone https://github.com/AltamiraSoftware/Restaurant-Booking-System.git
+cd Restaurant-Booking-System
 ```
 
 2. Instalar dependencias del frontend
@@ -116,16 +120,16 @@ npm run serve
 
 ## 👤 Autor
 
-- Nombre: [Tu Nombre]
-- Portfolio: [Tu Portfolio]
-- LinkedIn: [Tu LinkedIn]
-- GitHub: [Tu GitHub]
+- Nombre: Joaquín García Altamirano
+- GitHub: [AltamiraSoftware](https://github.com/AltamiraSoftware)
+- Proyecto: [Restaurant-Booking-System](https://github.com/AltamiraSoftware/Restaurant-Booking-System)
 
 ## 📞 Contacto
 
 Para cualquier consulta sobre el proyecto:
-- Email: +34667810234
-- LinkedIn: [Tu LinkedIn]
+- GitHub Issues: [Crear un issue](https://github.com/AltamiraSoftware/Restaurant-Booking-System/issues)
+- Email: Joaquiga@ucm.es
+- Teléfono: +34667810234
 
 ## 📄 Licencia
 
