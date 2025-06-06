@@ -1,0 +1,23 @@
+{
+  "name": "reserva-app-frontend",
+  "version": "1.0.0",
+  "description": "Frontend para la aplicación de reservas utilizando Vue.js",
+  "main": "src/main.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "reserva-app-frontend": "file:",
+    "vue": "^3.0.0",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.0",
+    "eslint": "^7.0.0",
+    "eslint-plugin-vue": "^7.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
